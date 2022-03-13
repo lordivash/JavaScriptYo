@@ -1,0 +1,2 @@
+# JavaScriptYo
+Interesting JS tasks
